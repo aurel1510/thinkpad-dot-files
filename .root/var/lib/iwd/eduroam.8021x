@@ -1,0 +1,11 @@
+[Security]
+EAP-Method=PEAP
+EAP-Identity=anonymous@cuni.cz
+EAP-PEAP-CACert=/var/lib/iwd/cert.pem
+EAP-PEAP-ServerDomainMask=radius1.eduroam.cuni.cz
+EAP-PEAP-Phase2-Method=MSCHAPV2
+EAP-PEAP-Phase2-Identity=****@cuni.cz
+EAP-PEAP-Phase2-Password=****
+
+[Settings]
+AutoConnect=true

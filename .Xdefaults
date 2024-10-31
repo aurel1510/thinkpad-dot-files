@@ -1,0 +1,5 @@
+XTerm*Background: black
+XTerm*Foreground: white
+
+XTerm*faceName: Monospace
+XTerm*faceSize: 16
